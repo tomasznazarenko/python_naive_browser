@@ -1,4 +1,4 @@
-# Naive text-based Web Browser.
+# Naive text-based Web Browser
 
 Exercise while learning python. Web scrapping.
 
